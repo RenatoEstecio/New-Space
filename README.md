@@ -9,4 +9,4 @@ Entrada: Teclado.
 Plataforma: Desktop
 
 Requisitos: 
-  - Windows
+  - Windows 64bits
