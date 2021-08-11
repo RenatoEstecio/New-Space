@@ -17,8 +17,6 @@ Requisitos:
 
 ScreenShots:
 
-![enter image description here](https://raw.githubusercontent.com/RenatoEstecio/New-Space/main/New%20Space/ScreenShots/A.jpg)
-
 ![enter image description here](https://raw.githubusercontent.com/RenatoEstecio/New-Space/main/New%20Space/ScreenShots/C.jpg)
 
 ![enter image description here](https://raw.githubusercontent.com/RenatoEstecio/New-Space/main/New%20Space/ScreenShots/B.jpg)
